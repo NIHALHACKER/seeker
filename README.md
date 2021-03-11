@@ -93,6 +93,8 @@ Available Templates :
 
 * `git clone https://github.com/NIHALHACKER/seeker.git`
 
+* `cd seeker`
+
 * `pip3 install requests`
 
 # USAGE
