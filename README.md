@@ -4,7 +4,11 @@
 
 * `pkg install php python openssh -y`
 
-* `git clone 
+* `git clone https://github.com/NIHALHACKER/seeker.git`
+
+* `pip3 install requests`
+
+
 
 
 
