@@ -9,9 +9,9 @@
 
 
 
-Tested On :
+# Tested On :
 
-* only working Termux
+* TERMUX ONLY WORKING TOOL
 
 
 
