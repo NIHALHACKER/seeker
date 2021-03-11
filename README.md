@@ -1,13 +1,19 @@
 # TERMUX ONLY WORKING 
 
-```
-git clone https://github.com/thewhiteh4t/seeker.git
+* `pkg update && pkg upgrade`
 
-cd seeker/
+* `pkg install php python openssh -y`
 
-pkg update
+* `git clone 
 
-pkg install python php
 
-pip3 install requests 
-                       ```
+
+
+
+
+
+
+
+
+
+
