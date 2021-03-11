@@ -73,9 +73,9 @@ Available Templates :
 
 * NearYou
 
-* Google Drive (Suggested by @Akaal_no_one)
+* Google Drive 
 
-* WhatsApp (Suggested by @Dazmed707)
+* WhatsApp 
 
 * Telegram
 
