@@ -9,7 +9,9 @@
 
 
 
+Tested On :
 
+* only working Termux
 
 
 
