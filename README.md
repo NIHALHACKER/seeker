@@ -1,4 +1,4 @@
-# TERMUX ONLY WORKING 
+# TERMUX INSTALL
 
 * `pkg update && pkg upgrade`
 
