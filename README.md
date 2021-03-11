@@ -95,6 +95,8 @@ Available Templates :
 
 * `cd seeker`
 
+* `chmod +x *`
+
 * `pip3 install requests`
 
 # USAGE
